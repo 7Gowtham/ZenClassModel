@@ -12,6 +12,6 @@ Zenclass Model involves:
 5. Performance Tracking
 6. Query Management
 
-## Data Relationships:
+## Data Relationships
 Establish relationships between tables using Primary Keys and Foreign Keys to ensure data consistency.
 
